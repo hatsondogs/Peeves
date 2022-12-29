@@ -4,7 +4,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"all": "block/dragon_egg"
+		"all": "block/dragon_egg",
+		"particle": "block/dragon_egg_particle"
 	},
 	"elements": [
 		{
